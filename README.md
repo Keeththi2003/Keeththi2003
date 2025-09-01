@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keeththigan
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science in Unvercity of Colombo School of Computing 
+- 🌱 I’m currently learning Computer Science in University of Colombo School of Computing 
 - 📫 How to reach me keeththi2003@gmail.com
 - 😄 Pronouns: Keeththi
 - ⚡ Fun fact: Cricket, Volleyball, Cinema
