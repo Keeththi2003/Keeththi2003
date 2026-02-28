@@ -40,113 +40,126 @@
 --->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Keeththigan%20👋&fontSize=36&fontColor=fff" width="100%" />
 
-I'm an undergraduate student at the **University of Colombo School of Computing (UCSC)**, pursuing a degree in **Computer Science**.  
-I’m passionate about **software engineering**, **web development**, and building scalable, user-focused applications.  
-Currently learning advanced **backend systems**, **cloud infrastructure**, and **DevOps tools**.  
-I enjoy exploring new technologies, contributing to open-source projects, and continuously improving my craft.  
+### About Me
 
+I am an undergraduate at the **University of Colombo School of Computing (UCSC)** pursuing a degree in **Computer Science**.
+
+My primary interests lie in:
+
+- Software Engineering  
+- Backend System Design  
+- Distributed Systems  
+- Cloud Infrastructure  
+- DevOps & CI/CD Automation  
+
+I focus on building scalable, production-ready systems and continuously improving my understanding of system architecture and engineering best practices.
 
 ![](https://komarev.com/ghpvc/?username=Keeththi2003&color=blueviolet&base=250)
 
-
 ---
 
-### 🌐 Connect with Me  
+### Connect
+
 <p align="left">
   <a href="https://linkedin.com/in/keeththi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn" style="margin-right:20px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
   </a>
   <a href="https://x.com/keeththi_dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" alt="Twitter (X)" style="margin-right:20px;"/>
+    <img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" alt="Twitter (X)" title="Twitter (X)"/>
   </a>
   <a href="mailto:keeththi2003@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Email" style="margin-right:20px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Email" title="Email"/>
   </a>
   <a href="https://github.com/Keeththi2003" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" title="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack  
+### Tech Stack  
+
 **Languages**  
-<img src="https://skillicons.dev/icons?i=c" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=py" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=js" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=ts" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=php" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=kotlin" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=dart" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=html" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=css" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=c" width="32" height="32" alt="C" title="C"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="32" height="32" alt="C++" title="C++"/>
+<img src="https://skillicons.dev/icons?i=py" width="32" height="32" alt="Python" title="Python"/>
+<img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="JavaScript" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts" width="32" height="32" alt="TypeScript" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=php" width="32" height="32" alt="PHP" title="PHP"/>
+<img src="https://skillicons.dev/icons?i=kotlin" width="32" height="32" alt="Kotlin" title="Kotlin"/>
+<img src="https://skillicons.dev/icons?i=dart" width="32" height="32" alt="Dart" title="Dart"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" alt="Node.js" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML" title="HTML"/>
+<img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="CSS" title="CSS"/>
 
 **Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=react" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=laravel" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=astro" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=remix" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=sass" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=express" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=flutter" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React" title="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="Next.js" title="Next.js"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=laravel" width="32" height="32" alt="Laravel" title="Laravel"/>
+<img src="https://skillicons.dev/icons?i=astro" width="32" height="32" alt="Astro" title="Astro"/>
+<img src="https://skillicons.dev/icons?i=remix" width="32" height="32" alt="Remix" title="Remix"/>
+<img src="https://skillicons.dev/icons?i=sass" width="32" height="32" alt="Sass" title="Sass"/>
+<img src="https://skillicons.dev/icons?i=express" width="32" height="32" alt="Express.js" title="Express.js"/>
+<img src="https://skillicons.dev/icons?i=flutter" width="32" height="32" alt="Flutter" title="Flutter"/>
 
 **Databases**  
-<img src="https://skillicons.dev/icons?i=mysql" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=firebase" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=supabase" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="32" height="32" alt="MySQL" title="MySQL"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="32" height="32" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="32" height="32" alt="Firebase" title="Firebase"/>
+<img src="https://skillicons.dev/icons?i=supabase" width="32" height="32" alt="Supabase" title="Supabase"/>
 
 **Cloud & Hosting**  
-<img src="https://skillicons.dev/icons?i=aws" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=vercel" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=netlify" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=aws" width="32" height="32" alt="Amazon Web Services" title="Amazon Web Services (AWS)"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="32" height="32" alt="Google Cloud Platform" title="Google Cloud Platform (GCP)"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="32" height="32" alt="Vercel" title="Vercel"/>
+<img src="https://skillicons.dev/icons?i=netlify" width="32" height="32" alt="Netlify" title="Netlify"/>
 
 **DevOps & CI/CD**  
-<img src="https://skillicons.dev/icons?i=docker" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=githubactions" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=nginx" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=apache" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=docker" width="32" height="32" alt="Docker" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="32" height="32" alt="GitHub Actions" title="GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=nginx" width="32" height="32" alt="NGINX" title="NGINX"/>
+<img src="https://skillicons.dev/icons?i=apache" width="32" height="32" alt="Apache" title="Apache"/>
 
 **Testing Tools**  
-<img src="https://skillicons.dev/icons?i=jest" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=jest" width="32" height="32" alt="Jest" title="Jest"/>
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=github" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=postman" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=figma" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=linux" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=bash" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=latex" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="Visual Studio Code" title="Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=postman" width="32" height="32" alt="Postman" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=figma" width="32" height="32" alt="Figma" title="Figma"/>
+<img src="https://skillicons.dev/icons?i=linux" width="32" height="32" alt="Linux" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=bash" width="32" height="32" alt="Bash" title="Bash"/>
+<img src="https://skillicons.dev/icons?i=latex" width="32" height="32" alt="LaTeX" title="LaTeX"/>
+<img src="https://skillicons.dev/icons?i=xcode" width="32" height="32" alt="Xcode" title="Xcode"/>
 
 ---
 
-
+<!--
 ### 📊 GitHub Stats  
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Keeththi2003&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keeththi2003&theme=dark&hide_border=false" height="150" />
-</p>
+</p> 
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keeththi2003&theme=dark&hide_border=false&layout=compact&langs_count=8" height="150" />
-</p>
+</p> 
 
 ---
+-->
+### Support
 
-
-### 🤝 Support Me
-If you like my work, you can support me:  
+If you find my work valuable:
 
 <a href="https://www.buymeacoffee.com/k_keeththigan">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48"/>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" alt="Buy Me A Coffee"/>
 </a>
+
+
 
 ---
 
